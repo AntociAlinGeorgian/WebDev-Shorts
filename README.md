@@ -15,3 +15,5 @@
 #### 6. Coming Soon Page
 
 #### 7. Animated Searching Icon
+
+#### 8. Responsive Content Slider
